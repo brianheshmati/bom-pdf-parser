@@ -1,0 +1,4 @@
+azure-functions
+camelot-py[cv]
+ghostscript
+opencv-python
